@@ -1,4 +1,4 @@
-# web-project-template-less
+# web-project-template-sass
 A web project template based on Jhon Papa pluralsight-gulp course but  stripped out of initial components it is truly an empty template ready for you to kick-start a project
 
 This template take advantage of JavaScript task automation using Gulp to streamline tasks such as compiling and injection less, installing and adding to you index.html trough bower with wiredep and optimization of you static assets for deploying
