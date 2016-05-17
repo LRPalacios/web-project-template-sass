@@ -1,0 +1,35 @@
+{
+  "name": "web-project-template-less",
+  "version": "0.1.0",
+  "description": "Starter code for and SPA application with javaScript build automation with gulp.js",
+  "authors": [
+    "Luis Palacios"
+  ],
+  "homepage": "https://github.com/LRPalacios/web-project-template-less",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/css/bootstrap.css",
+        "dist/js/bootstrap.min.js"
+      ]
+    },
+    "font-awesome": {
+      "main": [
+        "css/font-awesome.css",
+        "fonts/fontawesome-webfont.eot",
+        "fonts/fontawesome-webfont.woff",
+        "fonts/fontawesome-webfont.ttf",
+        "fonts/fontawesome-webfont.svg"
+      ]
+    }
+  }
+}
